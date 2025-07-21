@@ -29,18 +29,22 @@ I'm a Full Stack Developer passionate about building web applications and automa
   - Implemented a new login system using Laravel’s built-in authentication.
   - Added logging for error tracking and system analysis.
   - Integrated Livewire and Rappasoft DataTables to enhance user experience.
-  - Migrated the database from SQL Server to AWS EC2 and RDS, managed with Laravel Forge.
+  - Migrated the application from Windows Server to AWS EC2 and RDS, managed with Laravel Forge.
   - Documented all modules using Microsoft Loop.
   - Planned and tracked new features using GitHub Projects.
   - Wrote unit tests for all new features.
 
   
-#### 📊 **Business Intelligence Dashboards** (Power BI + MySQL)
-- **Challenge:** Data only accessible through VPN; slow refresh rates and complex joins.
+#### 📊 **Business Intelligence Dashboards** (Power BI + MySQL/Sharepoint)
+- **Challenges:**
+  - Data analysis was done manually through Excel.
+  - Frequent manual updates and data corrections.
+  - No visual or interactive reports available.
 - **Improvements:**
-  - Implemented data gateway for scheduled refresh.
-  - Designed semantic models with incremental updates.
-  - Reduced load times by 70% using filters and pre-aggregated views.
+  - Designed and implemented dashboards tailored to the client's needs.
+  - Set up a data gateway to enable scheduled data refreshes.
+  - Built semantic models with support for incremental data loading.
+  
 
 #### 🛠 **Power Platform Automation Suite** (Power Apps + Power Automate)
 - **Challenge:** Manual data entry and approval workflows across departments.
