@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Samuel
 
-I'm a Full Stack Developer passionate about building web applications and automating business processes.
+I'm a Full Stack Developer passionate about building web applications and automating business processes. I also have strong skills in data analysis, thanks to my background in finance.
 
 ## 🔧 Technologies & Tools
 - 🐘 PHP / Laravel
@@ -33,6 +33,9 @@ I'm a Full Stack Developer passionate about building web applications and automa
   - Documented all modules using Microsoft Loop.
   - Planned and tracked new features using GitHub Projects.
   - Wrote unit tests for all new features.
+<img width="1539" height="738" alt="Captura de pantalla 2025-07-21 081055" src="https://github.com/user-attachments/assets/0d418ae1-ba65-40b9-97e0-a18391e97fb3" />
+<img width="1470" height="673" alt="Captura de pantalla 2025-07-21 083125" src="https://github.com/user-attachments/assets/2057901a-8d70-45f8-9621-eeb8b284d3aa" />
+<img width="1523" height="654" alt="imagen" src="https://github.com/user-attachments/assets/ab309a9b-6bad-48fc-84b8-6360b3051197" />
 
   
 #### 📊 **Business Intelligence Dashboards** (Power BI + MySQL/Sharepoint)
@@ -44,7 +47,8 @@ I'm a Full Stack Developer passionate about building web applications and automa
   - Designed and implemented dashboards tailored to the client's needs.
   - Set up a data gateway to enable scheduled data refreshes.
   - Built semantic models with support for incremental data loading.
-  
+<img width="1133" height="669" alt="Captura de pantalla 2025-07-21 075955" src="https://github.com/user-attachments/assets/c7026bd1-03f9-4cb0-b5a4-e3db03582f76" />
+<img width="1124" height="623" alt="Captura de pantalla 2025-07-21 080210" src="https://github.com/user-attachments/assets/2589c928-969c-4891-b596-9a9b55cd8bc0" />
 
 #### 🛠 **Power Platform Automation Suite** (Power Apps + Power Automate)
 - **Challenge:** Manual data entry and approval workflows across departments.
@@ -54,15 +58,21 @@ I'm a Full Stack Developer passionate about building web applications and automa
   - Reduced manual work, and improved tracking with audit trails.
 
 #### 🔐 **Azure AD & Device Management** (Microsoft Intune)
-- **Challenge:** Managing RDP access and admin roles across hybrid domain environments.
+- **Challenges:**
+  - Lack of centralized control over user access and device security.
+  - Inconsistent enforcement of security and compliance policies.
+  - Manual user provisioning and policy assignment.
 - **Improvements:**
-  - Implemented fine-grained access control with Intune policies.
-  - Automated device compliance checks and enforced MFA for admins.
-  - Resolved RDP visibility issues by correcting Azure AD role bindings.
+  - Designed and deployed **Intune device configuration and compliance policies** to enforce security baselines across all endpoints.
+  - Implemented **Conditional Access policies** in Azure AD to restrict access based on device compliance, location, and user risk level.
+  - Automated **Multi-Factor Authentication (MFA)** enforcement for high-privilege users.
+  
 
 ## 📈 What I'm Working On
-- **Documentation Management System** – A centralized tool to create, organize, and store internal documentation using Laravel and Filament.
-- **Contracts Management System** – A Laravel and Filament platform to handle contract workflows, user roles, and reporting.
+- **Documentation Management System** – A centralized tool to create, organize, and store internal documentation using Laravel 12 and Filament 3.
+<img width="1431" height="754" alt="imagen" src="https://github.com/user-attachments/assets/81b5cdb3-56c3-421b-b34f-7c0513075fd9" />
+
+- **Contracts Management System** – A Laravel 12 and Filament 3 platform to handle contract workflows, user roles, and reporting.
 
 
 ## 📫 How to reach me
