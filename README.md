@@ -70,7 +70,7 @@ I'm a Full Stack Developer passionate about building web applications and automa
 
 ## 📈 What I'm Working On
 - **Documentation Management System** – A centralized tool to create, organize, and store internal documentation using Laravel 12 and Filament 3.
-<img width="1431" height="754" alt="imagen" src="https://github.com/user-attachments/assets/81b5cdb3-56c3-421b-b34f-7c0513075fd9" />
+<img width="1486" height="758" alt="image" src="https://github.com/user-attachments/assets/83d788dc-6ee9-41e0-98e0-1f26b942d180" />
 
 - **Contracts Management System** – A Laravel 12 and Filament 3 platform to handle contract workflows, user roles, and reporting.
 
