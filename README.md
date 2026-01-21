@@ -4,7 +4,6 @@ I'm a Full Stack Developer passionate about building web applications and automa
 
 ## 🔧 Technologies & Tools
 - 🐘 PHP / Laravel
-- ⚙️ JavaScript / Node.js
 - 🧠 Power Platform (Power Apps, Power Automate, Power BI)
 - 🗃️ SQL Server / MySQL
 - ☁️ Azure / AWS
